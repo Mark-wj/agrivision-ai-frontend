@@ -5,7 +5,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC.svg)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ## 🎯 Overview
 
@@ -55,7 +55,7 @@ Fully responsive design optimized for smartphones used by farmers in the field.
 ### Prerequisites
 
 - Node.js 16+ and npm
-- Backend API running (see [backend repo](https://github.com/YOUR_USERNAME/agrovision-backend))
+- Backend API running (see [backend repo](https://github.com/Mark-wj/agrovision-backend))
 
 ### Installation
 
@@ -166,12 +166,6 @@ Contributions welcome! Please:
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
-
----
-
 ## 🙏 Acknowledgments
 
 - **React** - UI library by Meta
@@ -183,30 +177,17 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/agrovision-frontend/issues)
-- **Backend Repo:** [agrovision-backend](https://github.com/YOUR_USERNAME/agrovision-backend)
-- **Email:** your.email@agrovision.com
+- **Issues:** [GitHub Issues](https://github.com/Mark-wj/agrovision-frontend/issues)
+- **Backend Repo:** [agrovision-backend](https://github.com/Mark-wj/agrovision-backend)
+- **Email:** marknjenga25@gmail.com
 - **Live Demo:** [https://agrovision.vercel.app](https://agrovision.vercel.app)
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Add user authentication
-- [ ] History of past analyses
-- [ ] Multi-language support
-- [ ] Offline mode (PWA)
-- [ ] Camera capture on mobile
-- [ ] Batch upload multiple images
-- [ ] Export results as PDF
-- [ ] Dark mode support
 
 ---
 
 ## 📈 Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/agrovision-frontend?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/agrovision-frontend?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Mark-wj/agrovision-frontend?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Mark-wj/agrovision-frontend?style=social)
 ![Vercel](https://img.shields.io/badge/deployed-vercel-black)
 
 ---
